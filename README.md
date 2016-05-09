@@ -7,4 +7,7 @@ Random generater:
 The random generater is based on the pixel points on the map  rather than all the gerorgraphic location within the zone.
 
 OSM Map Data Setting:
+
 Download the singapore.osm and put it into the import\mapData(Not available in the github)
+
+After simulation, map data will be extracted into \mapData
